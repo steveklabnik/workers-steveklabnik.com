@@ -1,0 +1,10 @@
+[package]
+
+name = "steveklabnikdotcom"
+version = "1.0.0"
+authors = ["Steve Klabnik <steve@steveklabnik.com>"]
+
+[dependencies]
+iron="*"
+router="*"
+libc= { path="/home/steve/src/libc" }
