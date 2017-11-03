@@ -1,4 +1,0 @@
----
-aws_bucket: www.steveklabnik.com
-path: .
-#skip_regex:    \$
