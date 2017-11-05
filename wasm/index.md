@@ -6,6 +6,8 @@ description: Tons of WebAssembly resources; a WebAssembly FAQ, WebAssembly links
 I am extremely enthusiastic about [WebAssembly]. I find it to be a fairly
 misunderstood technology, however. These pages will get you up to speed.
 
+I'll be updating this page regularly with more content, so check back!
+
 [WebAssembly]: http://webassembly.org/
 
 ## Faq
