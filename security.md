@@ -1,20 +1,22 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset='utf-8' />
-    <meta name="viewport" content="width=device-width; initial-scale=1.0;"> 
-    <title>Steve Klabnik: Contact</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-  </head>
-  <body>
-    <h1>Contact Steve</h1>
-    <p>You can email me at <a href="mailto:steve@steveklabnik.com">steve@steveklabnik.com</a>. I get a lot of email, so there may be some delay before I get back to you. Sorry about that!
-    <p>If you need to get a hold of me privately in some way, you can do so with my
-    PGP key, as listed below. I'm also <a href="https://keybase.io/steveklabnik">on Keybase</a>, if that makes things easier.</p>
-    <p>For more about PGP/GPG, please read <a href="http://futureboy.us/pgp.html">this page</a>.</p>
-    <p><a href="index.html">&lt;&lt;</a></p>
-    <hr />
-    <pre>-----BEGIN PGP PUBLIC KEY BLOCK-----
+---
+layout: default
+---
+# Contact Steve
+
+You can email me at [steve@steveklabnik.com]. I get a lot of email, so there
+may be some delay before I get back to you. Sorry about that!
+
+If you need to get a hold of me privately in some way, you can do so with my
+PGP key, as listed below. I'm also [on Keybase], if that makes things easier.
+
+For more about PGP/GPG, please read [this page].
+
+[<<](/index.html)
+
+------------------------
+
+```text
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1
 
 mQINBFVUzhYBEACY0qHYG5Y0haiOiIrEAdQalc2RKNM/7vxmsa2cliq24Sf0m3hh
@@ -65,7 +67,9 @@ ub7NQfeUlY5fgrQvb2IFh1xlT2hK0ldPcBeMIdAar3xK7uvVLfiWZRzVlKPSWhAC
 My+HoMvHbrAyFGTcAfcbt1C4L7V1yXBSZzkzpH0itq0IQPqbTOMqKk9LBcDlLgdG
 lZPoJGY=
 =Sp35
------END PGP PUBLIC KEY BLOCK-----</pre>
-  </body>
-</html>
+-----END PGP PUBLIC KEY BLOCK-----
+```
 
+[steve@steveklabnik.com]: mailto:steve@steveklabnik.com
+[on Keybase]: https://keybase.io/steveklabnik
+[this page]: http://futureboy.us/pgp.html
