@@ -1,8 +1,8 @@
 ---
 layout: default
+title: Contact Steve
+description: Steve Klabnik's email and PGP key.
 ---
-# Contact Steve
-
 You can email me at [steve@steveklabnik.com]. I get a lot of email, so there
 may be some delay before I get back to you. Sorry about that!
 

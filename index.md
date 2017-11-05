@@ -1,8 +1,7 @@
 ---
 layout: default
+title: Steve Klabnik's personal website
 ---
-# Steve Klabnik's personal website
-
 ## About
 
 Hi there! `/me waves` I'm Steve.

@@ -6,6 +6,4 @@ description: >
   Also contains beginner resources for WebAssembly.
 baseurl: ""
 url: "http://www.steveklabnik.com"
-twitter_username: steveklabnik
-github_username:  steveklabnik
 markdown: kramdown
