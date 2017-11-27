@@ -1,9 +1,11 @@
 title: Steve Klabnik's personal website
 email: steve@steveklabnik.com
+
 description: >
   The personal website of Steve Klabnik.
 
   Also contains beginner resources for WebAssembly.
-baseurl: ""
+
 url: "http://www.steveklabnik.com"
+
 markdown: kramdown
