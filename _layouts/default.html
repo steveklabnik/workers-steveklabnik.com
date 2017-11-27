@@ -7,11 +7,15 @@
     <meta name="viewport" content="width=device-width; initial-scale=1.0;">
     <meta name="author" content="Steve Klabnik">
     <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <script src="/js/anchor.min.js"></script>
   </head>
 
   <body>
     {% if page.title%}<h1>{{ page.title }}</h1>{% endif %}
     {{ content }}
+    <script>
+      anchors.add();
+    </script>
   </body>
   <footer class="footer">
   <p>&copy; 2017 Steve Klabnik. All content on this site is available under a
