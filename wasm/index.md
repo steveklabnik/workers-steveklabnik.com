@@ -23,6 +23,12 @@ I'll be updating this page regularly with more content, so check back!
 
 * [Exploring the binary format](deep-dive/exploring-the-binary-format.html)
 
+## Demos
+
+Here's some demos for you to try:
+
+* [Semver](demos/semver.html)
+
 ## Other links
 
 * [WebAssembly home page][WebAssembly]
