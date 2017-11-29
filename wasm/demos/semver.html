@@ -95,6 +95,7 @@
   <p>Note that a bare version number defaults to a <code>^</code> requirement. For more, see <a href="http://doc.crates.io/specifying-dependencies.html">the docs</a>.</p>
   <p>Any error returns "not a match", including failing of parsing.</p>
   <p>I'm very bad at front-end dev, so the code is likely very bad.</p>
+  <p>Apparently if I used `wasm-opt` and `opt-level s` instead of `opt-level 3` this gets smaller, to around 60k.</p>
   <p>Also, this code is a bit of a hack; we have some ABI issues to work out between JS/Rust interop. For more details on this, see <a href="https://github.com/killercup/wasm-experiments">killercup/wasm-experiments</a>, which is also where I got some of the code from.</p>
   <p>Rust source code for the wasm file:</p>
   <pre><code>extern crate semver;
