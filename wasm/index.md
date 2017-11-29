@@ -34,3 +34,4 @@ Here's some demos for you to try:
 * [WebAssembly home page][WebAssembly]
 * [WebAssembly Specification](https://webassembly.github.io/spec/)
 * [A cartoon intro to WebAssembly](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/)
+* [Rust for the Web](https://www.hellorust.com/), with great info and other demos!
