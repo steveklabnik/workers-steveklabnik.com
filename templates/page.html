@@ -2,20 +2,16 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-    <meta name="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}">
+    <title>Steve Klabnik's personal website</title>
+    <meta name="description" content="The personal website of Steve Klabnik.">
     <meta name="viewport" content="width=device-width; initial-scale=1.0;">
     <meta name="author" content="Steve Klabnik">
     <link rel="stylesheet" type="text/css" href="/css/style.css">
-    <script src="/js/anchor.min.js"></script>
   </head>
 
   <body>
-    {% if page.title%}<h1>{{ page.title }}</h1>{% endif %}
-    {{ content }}
-    <script>
-      anchors.add();
-    </script>
+      <h2>{{ page.title }}</h2>
+      {{page.content | safe}}
   </body>
   <footer class="footer">
     <hr />
@@ -25,4 +21,3 @@
     not that of my employer or anyone else.
   </footer>
 </html>
-

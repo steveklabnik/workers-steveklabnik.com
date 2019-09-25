@@ -1,8 +1,6 @@
----
-layout: default
-title: Steve Klabnik's personal website
----
-## About
++++
+title = "About"
++++
 
 Hi there! `/me waves` I'm Steve.
 

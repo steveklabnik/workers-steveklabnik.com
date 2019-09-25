@@ -1,8 +1,6 @@
----
-layout: default
-title: Contact Steve
-description: Steve Klabnik's email and PGP key.
----
++++
+title = "Security"
++++
 You can email me at [steve@steveklabnik.com]. I get a lot of email, so there
 may be some delay before I get back to you. Sorry about that!
 
@@ -11,7 +9,7 @@ PGP key, as listed below. I'm also [on Keybase], if that makes things easier.
 
 For more about PGP/GPG, please read [this page].
 
-[<<](/index.html)
+[<<](../)
 
 ------------------------
 
